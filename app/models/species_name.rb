@@ -1,0 +1,2 @@
+class SpeciesName < ApplicationRecord
+end
